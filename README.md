@@ -1,2 +1,1 @@
-# aluraplus
-Projeto do curso de HTML e CSS da Alura.
+Link para visualização do projeto: https://igor-rdgs.github.io/AluraPlus/
